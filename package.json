@@ -1,0 +1,21 @@
+{
+  "name": "jihoi-s-profile",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihoi0615/jihoi-s-Profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jihoi0615/jihoi-s-Profile/issues"
+  },
+  "homepage": "https://github.com/jihoi0615/jihoi-s-Profile#readme"
+}
